@@ -1,0 +1,27 @@
+{
+  "search_metadata": {
+    "status": "Success"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "example keyword",
+    "location": "Singapore, Singapore",
+    "gl": "sg",
+    "hl": "en"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Shared market guide",
+      "link": "https://shared.example/sg-guide",
+      "snippet": "A general guide that appears in both markets.",
+      "domain": "shared.example"
+    },
+    {
+      "position": 2,
+      "name": "Singapore-only guide",
+      "url": "https://sg-only.example/guide",
+      "description": "A fictional result using fallback field names."
+    }
+  ]
+}

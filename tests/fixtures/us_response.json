@@ -1,0 +1,27 @@
+{
+  "search_metadata": {
+    "status": "Success"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "example keyword",
+    "location": "New York, New York, United States",
+    "gl": "us",
+    "hl": "en"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Shared market guide",
+      "link": "https://shared.example/us-guide",
+      "snippet": "A general guide that appears in both markets.",
+      "domain": "shared.example"
+    },
+    {
+      "position": 2,
+      "title": "US-only guide",
+      "link": "https://us-only.example/guide",
+      "snippet": "A fictional result used only in the US fixture."
+    }
+  ]
+}
